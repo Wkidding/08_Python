@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 06 21:33:36 CST 2026","Thu Aug 06 21:33:36 CST 2026","0","Testcase.test_plugins","test_allure","Test16","","","test_with_attachments",""
